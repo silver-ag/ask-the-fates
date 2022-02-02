@@ -1,4 +1,4 @@
-# Ask The Fates
+## Ask The Fates
 
 a utility for questioning the *Moirai* of ancient greece.
 
@@ -6,4 +6,4 @@ a utility for questioning the *Moirai* of ancient greece.
  - make your query
  - receive three likely contradictory if not incomprehensible answers
 
-requires [racket](racket-lang.org)
+requires [racket](https://racket-lang.org)
